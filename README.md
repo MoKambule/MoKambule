@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on a blog website for fashion meets culture 
+
 
 
 ## 🌐 Socials:
